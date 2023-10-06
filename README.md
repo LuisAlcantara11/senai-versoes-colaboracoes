@@ -2,4 +2,3 @@
 Repositório versionamentos
 readme exemplo
 
-lembrei do comando: git commit
